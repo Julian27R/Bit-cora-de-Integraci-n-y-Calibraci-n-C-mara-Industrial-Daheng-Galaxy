@@ -1,5 +1,3 @@
-Aquí tienes el `README.md` actualizado en un único bloque listo para copiar y pegar, incluyendo todos los scripts completos y la secuencia exacta de comandos ejecutados en la terminal.
-
 ```markdown
 # Bitácora de Integración y Calibración: Cámara Industrial Daheng Galaxy
 
