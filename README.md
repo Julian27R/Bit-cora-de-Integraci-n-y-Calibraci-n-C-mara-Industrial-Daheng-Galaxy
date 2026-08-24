@@ -1,4 +1,3 @@
-```markdown
 # Bitácora de Integración y Calibración: Cámara Industrial Daheng Galaxy
 
 **Fecha:** 24 de agosto de 2026  
